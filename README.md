@@ -74,7 +74,7 @@ Implementation of Data Structures and Algorithms from COMP 251 in Java by Jingxi
 
 
 # Blind 75
-
+[Tutorials](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 
 ## Array
 - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
