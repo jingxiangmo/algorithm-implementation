@@ -2,6 +2,38 @@
 Implementation of Data Structures and Algorithms from COMP 251 in Java by Jingxiang Mo
 
 
+- [Algorithms and Data Structures Implementation](#algorithms-and-data-structures-implementation)
+  * [Data Structures](#data-structures)
+    + [Elementary Data Structures](#elementary-data-structures)
+    + [Hash Tables](#hash-tables)
+    + [Binary Search Trees](#binary-search-trees)
+    + [Red-Black Trees](#red-black-trees)
+    + [Augmenting Data Structures](#augmenting-data-structures)
+  * [Algorithms](#algorithms)
+    + [Heapsort](#heapsort)
+    + [Quicksort](#quicksort)
+    + [Linear Sort](#linear-sort)
+    + [Graph Algorithms](#graph-algorithms)
+    + [Minimum spanning trees](#minimum-spanning-trees)
+    + [Single-source shortest paths](#single-source-shortest-paths)
+    + [All-pairs shrotest paths](#all-pairs-shrotest-paths)
+    + [Maximum flow](#maximum-flow)
+- [Blind 75](#blind-75)
+  * [Array](#array)
+  * [Binary](#binary)
+  * [Dynamic Programming](#dynamic-programming)
+  * [Graph](#graph)
+  * [Interval](#interval)
+  * [Linked List](#linked-list)
+  * [Matrix](#matrix)
+  * [String](#string)
+  * [Tree](#tree)
+  * [Heap](#heap)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
 
 ## Data Structures
 ### Elementary Data Structures
