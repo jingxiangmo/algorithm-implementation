@@ -30,9 +30,6 @@ Implementation of Data Structures and Algorithms from COMP 251 in Java by Jingxi
   * [Tree](#tree)
   * [Heap](#heap)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 
 
 ## Data Structures
