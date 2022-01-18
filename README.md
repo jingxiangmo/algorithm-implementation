@@ -1,4 +1,4 @@
-# ALGORITHM IMPLEMENTATIONS
+# Algorithms and Data Structures Implementation
 Implementation of Data Structures and Algorithms from COMP 251 in Java by Jingxiang Mo
 
 
