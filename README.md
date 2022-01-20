@@ -1,7 +1,7 @@
-# ALGORITHM IMPLEMENTATIONS
-**Description**: Implementation of Data Structures and Algorithms from COMP 251 in Java by Jingxiang Mo
-**Motivation**: Learning algorithms and data structures in a fun way.
-**Disclaimer**: This is a work in progress. You're NOT allowed to use any of the written code for any purpose related to McGill COMP 251 Winter 2022, including but not limited to assignments, homework, and projects. 
+# ALGORITHM IMPLEMENTATION
+**Description**: Implementation of Data Structures and Algorithms from COMP 251 in Java by Jingxiang Mo <br>
+**Motivation**: Learning algorithms and data structures in a fun way. <br>
+**Disclaimer**: This is a work in progress. You're NOT allowed to use any of the written code for any purpose related to McGill COMP 251 Winter 2022 course, including but not limited to assignments, homework, and projects.<br> 
 **Practice**: See Blind75.md
 
 
@@ -12,11 +12,19 @@
 ### Stacks and Queues
 
 ### Hashing
-
 - Direct-address tables
+- Hash maps
 - Hash tables
 - Hash functions
-- Open addressing
+  - Division method
+  - Multiplication method
+  - Universal hashing
+- Collisions
+  - Chaining method
+  - Open addressing
+    - Linear
+    - Quadratic
+    - Double hashing
 - Perfect hashing
 
 ### Union-Find Disjoint Sets
