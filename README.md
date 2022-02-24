@@ -1,4 +1,4 @@
-# ALGORITHM IMPLEMENTATION
+# ALGORITHMS IMPLEMENTATION
 **Description**: Implementation of Data Structures and Algorithms from COMP 251 in Java by Jingxiang Mo <br>
 **Disclaimer**: This is a work in progress. You're NOT allowed to use any of the written code for any purpose related to McGill COMP 251 Winter 2022 course, including but not limited to assignments, homework, and projects.<br> 
 **Practice**: See Blind75.md
