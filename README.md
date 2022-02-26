@@ -17,7 +17,7 @@
 - Red-Black Trees
 
 # Algorithms Topics
-- Algorith paradigms
+- Algorithm paradigms
 - Divide and Conquer
 - Dynamic Programming
 - Greedy Algorithms
@@ -27,8 +27,7 @@
   - Single Source Shortest Path
   - Minimum Spanning Tree
   - Bipartite Graphs
-
-
+  
 # References
 - COMP 251 Algorithms and Data Structures - Winter 2022, Professor David Becerra
 - Introduction to Algorithms, CLRS 
